@@ -1,2 +1,2 @@
-# PythonSkills
-Methods and Skills for Python 
+# basic-python-tutorials
+A repository of tutorials on basic python skills with practice problems and solutions
